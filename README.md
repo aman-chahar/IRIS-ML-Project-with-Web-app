@@ -1,5 +1,5 @@
 # IRIS Machine Learning Project with Streamlit web app
-Python script for a basic machine learning project that involves loading the Iris dataset, training three different machine learning models (Logistic Regression, Decision Tree, and Random Forest), and then saving these models as pickle files, to predict the label on web app using streamlt.
+Python script for a basic machine learning project that involves loading the Iris dataset, training three different machine learning models (Logistic Regression, Decision Tree, and Random Forest), and then saving these models as pickle files, to predict the label on web app using streamlit.
 
 Streamlit web app link:- https://iris-ml-project-with-web-app-wrfcvpt3eczzvyotx8vswn.streamlit.app/
 
